@@ -1,5 +1,10 @@
 # 马自立自动烤肉机重制版
 
+Forked by OkayuTranslateGroup
+[Detail](./modification.md)
+
+———————Original Readme——————————
+
 ## 简介
 这个烤肉机，其实是个推特嵌字机。  
 出现的初衷因该是，嵌字这件事儿，大家都爱不动了。  
@@ -56,5 +61,3 @@ https://github.com/cn-matsuri/toastTemplates/
 ## 使用感想
 
 ![茶铺使用感想](https://raw.githubusercontent.com/cn-matsuri/matsuri_translation/master/testimonial.png "茶铺使用感想")
-
-
