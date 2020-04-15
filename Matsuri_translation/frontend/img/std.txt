@@ -1,0 +1,4 @@
+<div style="margin:10px 38px">
+<img src="img/okayu.png" height="38">
+<div style="font-size:27px;">{T}</div>
+</div>

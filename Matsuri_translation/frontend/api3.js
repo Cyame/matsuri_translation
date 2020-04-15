@@ -392,8 +392,8 @@ $(function () {
         submit_task(true);
     });
     if (localStorage.getItem("translatetemp") == null) localStorage.setItem("translatetemp", '<div style="margin:10px 38px">\n' +
-        '<img src="img/gongfang_official.png" height="38">\n' +
-        '<div style="font-size:27px;">{T}</div>\n' +
+        '<img src="img/okayu.png" height="38">\n' +
+        '<div style="margin-left:20px;margin-top:10px;font-size:18px;">{T}</div>\n' +
         '</div>')
     $("#translatetemp").val(localStorage.getItem("translatetemp"));
     $("#translatetemp").keyup(refresh_trans_div);
